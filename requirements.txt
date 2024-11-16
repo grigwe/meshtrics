@@ -1,0 +1,5 @@
+influxdb_client==1.47.0
+meshtastic==2.5.4
+pubsub==0.1.2
+Pypubsub==4.0.3
+urllib3==2.2.3
